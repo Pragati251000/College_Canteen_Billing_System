@@ -1,0 +1,29 @@
+
+========== CANTEEN RECEIPT ==========
+Vadapav x 24 = Rs. 480
+Total Amount: Rs. 480
+=====================================
+
+========== CANTEEN RECEIPT ==========
+Samosa x 3 = Rs. 45
+Total Amount: Rs. 45
+=====================================
+
+========== CANTEEN RECEIPT ==========
+Tea x 3 = Rs. 30
+Total Amount: Rs. 30
+=====================================
+
+========================================
+COLLEGE CANTEEN RECEIPT
+Receipt No: 20261019232945
+Date: 19-10-2026 11:29 PM
+Masala Dosa x 4 = Rs. 240
+Idli Sambar x 2 = Rs. 80
+Mysore Dosa x 1 = Rs. 65
+Veg Manchurian x 4 = Rs. 280
+Schezwan Noodles x 4 = Rs. 320
+Lemon Juice x 6 = Rs. 150
+French Fries x 4 = Rs. 200
+Total Amount: Rs. 1335
+========================================
